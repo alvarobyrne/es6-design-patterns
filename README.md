@@ -10,3 +10,5 @@ For the Javascript implementation see: [js-design-patterns](http://loredanacirst
 For StarUML diagrams: [staruml-design-patterns](https://github.com/loredanacirstea/staruml-design-patterns)
 
 This work is licensed under MIT
+
+<strong>Very well done Loredana Cirstea</strong>
