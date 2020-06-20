@@ -1,10 +1,3 @@
-var chokidar = require('chokidar');
-chokidar.watch(['index.js','index.html'],{}).on('change',(a,b)=>{
-    console.log("a : ",a);
-    console.log("b : ",b);
-    location.reload();
-})
-
 var get_source = function(main_dir, dir, file){
         var disclaimer = "";
         if(file != "Facade")
