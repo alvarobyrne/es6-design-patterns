@@ -12,3 +12,5 @@ For StarUML diagrams: [staruml-design-patterns](https://github.com/loredanacirst
 This work is licensed under MIT
 
 <strong>Very well done Loredana Cirstea</strong>
+
+I've added succint descriptions taken from https://sourcemaking.com/design_patterns/structural_patterns
